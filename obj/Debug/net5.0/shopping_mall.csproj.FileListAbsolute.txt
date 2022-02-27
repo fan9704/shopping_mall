@@ -152,3 +152,5 @@ D:\shopping_mall\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
 D:\shopping_mall\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
 D:\shopping_mall\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
 D:\shopping_mall\obj\Debug\net5.0\Razor\Views\Profit\Index.cshtml.g.cs
+D:\shopping_mall\obj\Debug\net5.0\Razor\Views\Products\Purchase.cshtml.g.cs
+D:\shopping_mall\obj\Debug\net5.0\Razor\Views\Products\Sell.cshtml.g.cs

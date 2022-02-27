@@ -61,8 +61,8 @@
                 @Html.DisplayFor(modelItem => item.Price)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">進貨</a> |
-                <a asp-action="Edit" asp-route-id="@item.Id">銷貨</a> |
+                <a asp-action="Purchase" asp-route-id="@item.Id">進貨</a> |
+                <a asp-action="Sell" asp-route-id="@item.Id">銷貨</a> |
                 <a asp-action="Edit" asp-route-id="@item.Id">修改</a> |
                 <a asp-action="Details" asp-route-id="@item.Id">描述</a> |
                 <a asp-action="Delete" asp-route-id="@item.Id">下架</a>
